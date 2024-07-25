@@ -7,7 +7,7 @@ const mobileMenu = () => {
   menu.classList.toggle('is-active');
   menuLinks.classList.toggle('active');
 };
-
+// ytghiuhjhgi
 menu.addEventListener('click', mobileMenu);
 
 // Show active menu when scrolling
